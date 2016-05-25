@@ -18,7 +18,7 @@ package main
 
 import (
 	"bufio"
-	log "code.google.com/p/log4go"
+	log "github.com/Kissaki/log4go"
 	"flag"
 	"fmt"
 	"net"

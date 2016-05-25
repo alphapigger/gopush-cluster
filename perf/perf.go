@@ -17,7 +17,7 @@
 package perf
 
 import (
-	log "code.google.com/p/log4go"
+	log "github.com/Kissaki/log4go"
 	"net/http"
 	"net/http/pprof"
 )

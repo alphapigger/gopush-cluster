@@ -21,7 +21,7 @@
 package zk
 
 import (
-	log "code.google.com/p/log4go"
+	log "github.com/Kissaki/log4go"
 	"errors"
 	"github.com/samuel/go-zookeeper/zk"
 	"os"

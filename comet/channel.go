@@ -17,7 +17,7 @@
 package main
 
 import (
-	log "code.google.com/p/log4go"
+	log "github.com/Kissaki/log4go"
 	"errors"
 	"github.com/Terry-Mao/gopush-cluster/hash"
 	"github.com/Terry-Mao/gopush-cluster/hlist"

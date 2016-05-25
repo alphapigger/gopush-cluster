@@ -21,7 +21,7 @@
 package main
 
 import (
-	log "code.google.com/p/log4go"
+	log "github.com/Kissaki/log4go"
 	"encoding/json"
 	"github.com/Terry-Mao/gopush-cluster/rpc"
 	myzk "github.com/Terry-Mao/gopush-cluster/zk"
